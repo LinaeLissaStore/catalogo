@@ -10,7 +10,7 @@ window.STORE_CONFIG = {
 
   // ID da planilha do Google Sheets (o trecho entre /d/ e /edit no link da planilha)
   // Exemplo: https://docs.google.com/spreadsheets/d/ESTE_É_O_ID/edit
-  sheetId: 'COLE_AQUI_O_ID_DA_PLANILHA',
+  sheetId: '1Ep4nZqgRMpC-OYvig5ldICnZ5vWprzJ0',
 
   // Nome da aba onde ficam os produtos (precisa ser idêntico ao da planilha)
   sheetName: 'Página1',
